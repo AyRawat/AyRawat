@@ -1,4 +1,4 @@
-![Header](./github-header-image-latest.png)
+![Header](./github-header-image-new.png)
 <h3 align="center">Backend Alchemist 🧪 | Crafting APIs with Python & Node.js | Curiosity-driven Code Wizardry 🌟</h3>
 
 - 🔭 I’m currently working on **Trade-y**
